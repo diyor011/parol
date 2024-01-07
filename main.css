@@ -1,0 +1,48 @@
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+body{
+    background: url(1614724651_25-p-foni-dlya-lendinga-27.jpg) no-repeat center ;
+    width: 100%;
+    /* height: 100vh; */
+    padding: 40px 0;
+    
+
+}
+
+.jj{
+    padding: 15px;
+}
+
+.btn{
+margin-top: 15px;   
+padding:  10px 25px;
+}
+
+.tag{
+    width: 265px;
+    margin: auto;
+}
+
+
+.dot{
+    background-color: rgb(105, 227, 105);
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+}
+.dag{
+    background-color: rgb(181, 63, 63);
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+}
